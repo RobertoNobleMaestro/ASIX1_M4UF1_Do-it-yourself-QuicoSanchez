@@ -1,0 +1,38 @@
+* {
+    background-color: red;
+
+}
+
+body{
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+img{
+    border-radius: 10px;
+    height: 250px;
+    margin-left: 200px;
+}
+
+h1, h2{
+    border-radius: 10px;
+    border: solid white 1px;
+    padding: 5%;
+    background-color: rgb(43, 42, 42);
+    text-align: center;
+}
+strong{
+    background-color: black;
+}
+span{
+    background-color: aqua;
+    color: black;
+}
+
+h3{
+    color: aqua;
+}
+a{
+    border-radius: 20px;
+    border: solid black 2px;
+}
